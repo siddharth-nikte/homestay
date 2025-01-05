@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@nextui-org/react": "^2.4.8",
+    "@react-google-maps/api": "^2.20.5",
     "@studio-freight/lenis": "^1.0.42",
     "@types/mongoose": "^5.11.97",
     "gsap": "^3.12.5",
@@ -17,7 +18,7 @@
     "mongodb": "^6.9.0",
     "mongoose": "^8.6.3",
     "next": "^14.2.20",
-    "nodemailer": "^6.9.15",
+    "nodemailer": "^6.9.16",
     "react": "^18",
     "react-dom": "^18",
     "react-responsive-3d-carousel": "^1.5.0",

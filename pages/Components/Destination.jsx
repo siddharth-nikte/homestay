@@ -104,3 +104,4 @@ const DestinationsNearby = () => {
 };
 
 export default DestinationsNearby;
+

@@ -23,7 +23,7 @@ const HeroSection = () => {
           href="#contact"
           className="rounded-full px-4 sm:px-6 md:px-8 py-2 sm:py-3 overflow-hidden group bg-green-500 relative hover:bg-gradient-to-r hover:from-green-500 hover:to-green-400 text-white text-sm sm:text-base md:text-lg font-semibold hover:ring-2 hover:ring-offset-2 hover:ring-green-400 transition-all ease-out duration-300 shadow-lg">
           <span className="absolute right-0 w-8 h-32 -mt-12 transition-all duration-1000 transform translate-x-12 bg-white opacity-10 rotate-12 group-hover:-translate-x-40 ease"></span>
-          <span className="relative">Book Your Stay Now</span>
+          <span className="relative">Contact Us</span>
         </a>
       </div>
     </div>
